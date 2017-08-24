@@ -17,7 +17,10 @@ Alt-H1
  [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
  
  
- ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+ ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Tit
+  ```javascript
+  ssss```
+ le Text 1")
  
  ![good alt" asd][logo]
  
@@ -25,10 +28,7 @@ Alt-H1
  
  
  
- ```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
+ 
 
 
 <a class="goodclas" href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
