@@ -1,0 +1,2 @@
+# fuckingShit
+myfuckingProject
