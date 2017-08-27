@@ -12,7 +12,7 @@ Alt-H1
  
  [I'm a reference-style link][Arbitrary case-insensitive reference text]
  
- 
+ <img src="http://example.com" />
  
  [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
  
