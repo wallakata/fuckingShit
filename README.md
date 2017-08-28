@@ -9,7 +9,7 @@ Alt-H1
 *asterisks*
 
  ~~Scratch this.~~
- 
+ [[Hurricane_Harvey]]
  [I'm a reference-style link][Arbitrary case-insensitive reference text]
  
  <img src="http://example.com" />
