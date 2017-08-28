@@ -11,8 +11,12 @@ Alt-H1
  ~~Scratch this.~~
  
  [I'm a reference-style link][Arbitrary case-insensitive reference text]
- 
  [[Hurricane_Harvey]]
+<<<<<<< HEAD
+ 
+=======
+ <img src="http://example.com" />
+>>>>>>> cd91959effad843a886a13e5036beeb50ef10486
  
  [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
  
