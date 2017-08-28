@@ -1,3 +1,4 @@
+ [[wwwwww|Hurricane_Harvey]]
 #H!
 
 ##H!
@@ -8,8 +9,7 @@ Alt-H1
 
 *asterisks*
 
- ~~Scratch this.~~
- 
+
  [I'm a reference-style link][Arbitrary case-insensitive reference text]
  [[Hurricane_Harvey]]
 <<<<<<< HEAD
