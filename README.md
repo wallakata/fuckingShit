@@ -1,1 +1,3 @@
-<pre class="language-python">aszxc</pre>a
+<div class="language-python">aszxc</div>a
+<div class="absent">aszxc</div>a
+
