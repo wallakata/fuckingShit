@@ -1,1 +1,1 @@
-<pre calss="language-python">aszxc</pre>a
+<pre class="language-python">aszxc</pre>a
