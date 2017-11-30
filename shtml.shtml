@@ -1,0 +1,96 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>SHTML page example</title>
+<style>
+pre {
+background:#EEF3F6 none repeat scroll 0 0;
+border:1px dotted #666666;
+color:#000099;
+font-size:1.1em;
+line-height:1.1em;
+margin:15px 0;
+overflow:auto;
+padding:10px 15px;
+}
+</style>
+</head>
+<body>
+<div id="f_source_navigation" style="position:relative; top:20px; left:0px; width:700px;">
+  <!-- Don't change any part of the DIV code (Press Ctrl+Shift+F to edit) -->
+  <script src='Adobe_Style_Menu/MenuScript.js' type='text/javascript'></script>
+  <!-- saved from url=(0014)about:internet -->
+  <div id='menu' style='display:none;'>
+    <div><a href='http://f-source.com'>Html5 menu</a></div>
+    <div class='submenu'>
+      <div><a href='http://f-source.com/swimbi/demo/?menu=Vista_Twilight'>Cool CSS Menu Design</a></div>
+      <div><a href='http://f-source.com/swimbi'>Web Menu Builder</a></div>
+      <div><a href='http://f-source.com/swimbi/demo/?menu=Vista_Armored'>Best drop down menu example</a></div>
+      <div><a href='http://f-source.com/swimbi/demo/?menu=Dark%20Glossy_Brown'>Nice looking drop down menu</a></div>
+    </div>
+    <div><a href='http://f-source.com/swimbi/download/'>Free menu builder download</a></div>
+    <div class='submenu'>
+      <div><a href='http://f-source.com/swimbi/demo/?menu=Business_Digital'>Free css menu</a></div>
+      <div><a href='http://f-source.com/swimbi/demo/?menu=Business_Violett'>HTML5 drop down menu</a></div>
+      <div><a href='#'>SubButton2-3</a></div>
+      <div><a href='#'>SubButton2-4</a></div>
+    </div>
+    <div><a href='#'>Button4</a></div>
+    <div class='submenu'>
+      <div><a href='#'>SubButton4-1</a></div>
+      <div class='submenu'>
+        <div><a href='#'>SubButton4-1-1</a></div>
+        <div class='submenu'>
+          <div><a href='#'>SubButton4-1-1-1</a></div>
+          <div><a href='#'>SubButton4-1-1-2</a></div>
+          <div><a href='#'>SubButton4-1-1-3</a></div>
+          <div><a href='#'>SubButton4-1-1-4</a></div>
+        </div>
+        <div><a href='#'>SubButton4-1-2</a></div>
+        <div><a href='#'>SubButton4-1-3</a></div>
+        <div><a href='#'>SubButton4-1-4</a></div>
+      </div>
+      <div><a href='#'>SubButton4-2</a></div>
+      <div><a href='#'>SubButton4-3</a></div>
+      <div><a href='#'>SubButton4-4</a></div>
+    </div>
+    <div><a href='http://f-source.com'>&lt;b&gt;Button5&lt;/b&gt;</a></div>
+    <div ><a href='http://www.google.com/search?q=' target='_blank'>Search</a></div>
+  </div>
+  <!-- Flash Object code (EMBED tag will be generated automatically) -->
+  <div id="f-source-menu" style="position:relative;" onMouseOver="if(!ied){i= fdiv.style.height.indexOf('px');h=Number(fdiv.style.height.substring(0,i));fdiv.style.height=h+1+'px';}">
+    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" id="Adobe_Style_Menu" width="700" height="36" >
+      <param name="movie" value="Adobe_Style_Menu/trial.swf" />
+      <param name="quality" value="high" />
+      <param name="wmode" value="transparent" />
+      <param name="FlashVars" value="flashlet={bg_Pic_URL:'None',xml_Path:'',stretch_width_to:'700px',_TransparencyShadow:100,_dividerColor:#CCCCCC,_textHighlight:#990000,_max_height:550,_showSearchField:true,_searchFieldWidth:120,_searchField:#ffffff,_searchInputTextColor:#000000,_searchHighlightColor:#74F044,mainSoundURL:'',clickSoundURL:'',subSoundURL:'',_mainHeight:36,_menuColor:#DEDEDE,_mainFont:'Arial',_mainFontSize:12,_mainButtonText:#555556,_TransparencyMain:100,_mainButWidthExt:1,_subHeight:23,_subMenuColor:#f7f7f7,_subFont:'Arial',_subFontSize:11,_subButtonText:#555555,_subHighlightColor:#A0A0A0,_TransparencySub:90,_subBorderColor:#C6C6C6,_pos_type:'relative',_pos_centered:false,_pos_top:20,_pos_left:0,_pos_insert:'the insertion point',_pos_z:0,_file_folder:'Adobe_Style_Menu'}" />
+    </object>
+    <script type="text/javascript">var connected; var message="Hello!"; if (connected){ Run_f_source_menu() }else{ alert("The file MenuScript.js could not be loaded!") }</script>
+  </div>
+</div>
+<br/>
+<br/>
+<br/>
+<br/>
+<h4>SHTML page</h4>
+
+  <p> 
+  </p>
+  <p>In order for a web server in a default configuration to recognize an SSI-enabled HTML file and therefore carry out these instructions, the file usually must end with the .shtml, .stm or .shtm extension. (It is also possible to configure a web server to process files with extension .html, or really any extension with more modern web servers.)<br/> 
+</p>
+<br/>
+<br/>
+The source code of this page
+<pre>
+&lt;body>
+&lt;!--#include file="menu.html" -->
+&lt;/body>
+</pre>
+  <p>The file named "<b>menu.html</b>" is located in the same directory. 
+  </p>
+Also the folder "<b>Adobe_Style_Menu</b>" is located in the same directory.
+<br/>
+
+</body>
+</html>
