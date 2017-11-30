@@ -1,8 +1,7 @@
 
 1
 00:02:17,440 --> 00:02:20,375
-Senator, we're making
-our final approach into Coruscant.
+<font size="16px" color="white">phrase</font> 
 
 2
 00:02:20,476 --> 00:02:22,501
